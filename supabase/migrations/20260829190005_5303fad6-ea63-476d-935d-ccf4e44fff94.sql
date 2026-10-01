@@ -1,0 +1,1 @@
+DROP FUNCTION IF EXISTS public.save_attendance(uuid[], date, attendance_status, integer);

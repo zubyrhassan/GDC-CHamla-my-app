@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.portal_student_id() FROM PUBLIC, anon;
