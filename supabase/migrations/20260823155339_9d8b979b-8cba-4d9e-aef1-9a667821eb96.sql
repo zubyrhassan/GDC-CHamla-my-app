@@ -1,0 +1,1 @@
+REVOKE ALL ON FUNCTION public.check_consecutive_absences() FROM PUBLIC, anon, authenticated;
